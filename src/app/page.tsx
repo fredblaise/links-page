@@ -71,8 +71,10 @@ export default async function Home() {
             />
           </div>
           <div className="flex flex-col text-center">
-            <p className="text-xl uppercase text-white">{linkPageData.title}</p>
-            <p className="text-md text-white">{linkPageData.subtitle}</p>
+            <p className="text-xl uppercase text-white">
+              {linkPageData[0].title}
+            </p>
+            <p className="text-md text-white">{linkPageData[0].subtitle}</p>
           </div>
         </div>
         {links.map((link: any, i: number) => (
