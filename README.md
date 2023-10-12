@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Links Page 
+
+This is the frontend repository of the Linktree clone built with Next.js. This project allows users to create a simple, clean page with links to their social media profiles, blogs, and other personal websites. Ideal for creators, developers, and anyone looking to create a central hub for their online presence.
+
+Features
+Responsive Design: Works on mobile, tablet, and desktop.
+Customizable: Easily change colors, text, and links.
+Fast Performance: Built with Next.js, expect fast load times and a smooth user experience.
+Integration with Portfolio: Seamlessly integrate and manage links from your portfolio.
+
 
 ## Getting Started
 
