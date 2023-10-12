@@ -1,4 +1,4 @@
-# Links Page 
+# Links Page Frontend
 
 This is the frontend repository of the Linktree clone built with Next.js. This project allows users to create a simple, clean page with links to their social media profiles, blogs, and other personal websites. Ideal for creators, developers, and anyone looking to create a central hub for their online presence.
 
