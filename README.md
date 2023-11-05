@@ -4,11 +4,11 @@ This is the frontend repository of the Linktree clone built with Next.js. This p
 
 Please see the backend code [here](https://github.com/fredblaise/links-page-backend).
 
-Features
-Responsive Design: Works on mobile, tablet, and desktop.
-Customizable: Easily change colors, text, and links.
-Fast Performance: Built with Next.js, expect fast load times and a smooth user experience.
-Integration with Portfolio: Seamlessly integrate and manage links from your portfolio.
+## Features
+- Responsive Design: Works on mobile, tablet, and desktop.
+- Customizable: Easily change colors, text, and links.
+- Fast Performance: Built with Next.js, expect fast load times and a smooth user experience.
+- Integration with Portfolio: Seamlessly integrate and manage links from your portfolio.
 
 
 ## Getting Started
